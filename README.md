@@ -73,3 +73,6 @@ Dataset contain 4 classes :
 4-Pituitary tumor
 
 ![Screenshot (746)](https://github.com/Norhanzeid/Graduation-Project/assets/88601623/34b9d65a-2dfa-4e1d-8e8d-b6ce3717fd45)
+
+# For More details see my video in My Youtube Channle
+https://www.youtube.com/watch?v=yDssUJdM4l4
