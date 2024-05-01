@@ -46,3 +46,7 @@ Make the companion of the patient abler to follow the patient's condition by sch
 
 ![Screenshot (747)](https://github.com/Norhanzeid/Graduation-Project/assets/88601623/8dece658-42c2-4f56-a27c-3d2fd59d357b)
 
+# First Model is Predicting Blood Pressure using ECG and PPG signals using LSTM 
+![Screenshot (748)](https://github.com/Norhanzeid/Graduation-Project/assets/88601623/4c33e952-73de-452a-bf23-f4bb5d6fc166)
+![Screenshot (749)](https://github.com/Norhanzeid/Graduation-Project/assets/88601623/955057e1-1128-4371-ba31-c5bf580da222)
+
