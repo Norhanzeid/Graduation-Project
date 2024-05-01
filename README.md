@@ -9,17 +9,17 @@ The only way to detect blood pressure is to have blood pressure measured in any 
 People can do this procedure themselves using electronic devices, but it is important that they undergo an evaluation by a specialist doctor for possible risks and associated ailments
 
 # What are the risks that blood pressure can cause ?
-Heart attack
+1- Heart attack
 
-Angina pectoris
+2- Angina pectoris
 
-Cardiac insufficiency OR Heart failure
+3- Cardiac insufficiency OR Heart failure
 
-Tachycardia, which can lead to sudden death.
+4-T achycardia, which can lead to sudden death.
 
-High blood pressure can damage the kidneys, leading to kidney failure
+5- High blood pressure can damage the kidneys, leading to kidney failure
 
-Also, High blood pressure can also burst or block the arteries that supply blood and oxygen to the brain, causing a stroke.
+6- Also, High blood pressure can also burst or block the arteries that supply blood and oxygen to the brain, causing a stroke.
 
 # Idea
 
