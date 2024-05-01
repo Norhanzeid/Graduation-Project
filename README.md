@@ -56,13 +56,13 @@ Make the companion of the patient abler to follow the patient's condition by sch
 
 ![12911_2021_1736_Fig3_HTML](https://github.com/Norhanzeid/Graduation-Project/assets/88601623/4140884a-75a6-4195-a785-9dfee6b48559)
 
-we used this dataset to build model
+# we used this dataset to build model
 ![Screenshot (751)](https://github.com/Norhanzeid/Graduation-Project/assets/88601623/31cf3e21-03c0-4f1c-a666-1e50694aef88)
 ![Screenshot (745)](https://github.com/Norhanzeid/Graduation-Project/assets/88601623/5ee11c3f-7fcb-462d-940c-a3d91788ab27)
 
-# third model is Brain Tumor Classfication
+# Third model is Brain Tumor Classfication
 
-# Dataset contain 4 classes :
+Dataset contain 4 classes :
 
 1-Glioma tumor
 
