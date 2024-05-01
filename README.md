@@ -49,4 +49,21 @@ Make the companion of the patient abler to follow the patient's condition by sch
 # First Model is Predicting Blood Pressure using ECG and PPG signals using LSTM 
 ![Screenshot (748)](https://github.com/Norhanzeid/Graduation-Project/assets/88601623/4c33e952-73de-452a-bf23-f4bb5d6fc166)
 ![Screenshot (749)](https://github.com/Norhanzeid/Graduation-Project/assets/88601623/955057e1-1128-4371-ba31-c5bf580da222)
+![Screenshot (744)](https://github.com/Norhanzeid/Graduation-Project/assets/88601623/93800758-f96a-49a7-a320-f0cabde225ba)
 
+
+# Second Model is ECG Classfication 
+![12911_2021_1736_Fig3_HTML](https://github.com/Norhanzeid/Graduation-Project/assets/88601623/bbbb85f5-5d61-48af-a401-e3ff17769363
+we used this dataset to build model
+![Screenshot (751)](https://github.com/Norhanzeid/Graduation-Project/assets/88601623/31cf3e21-03c0-4f1c-a666-1e50694aef88)
+![Screenshot (745)](https://github.com/Norhanzeid/Graduation-Project/assets/88601623/5ee11c3f-7fcb-462d-940c-a3d91788ab27)
+
+# third model is Brain Tumor Classfication
+
+Dataset contain 4 classes :
+1-Glioma tumor
+2- Meningioma tumor
+3- No tumor
+4-Pituitary tumor
+
+![Screenshot (746)](https://github.com/Norhanzeid/Graduation-Project/assets/88601623/34b9d65a-2dfa-4e1d-8e8d-b6ce3717fd45)
