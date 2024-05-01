@@ -5,7 +5,7 @@ The elderly care system is an integrated system consisting of software, hardware
 Blood pressure has been called the "silent killer." Most people with it are not aware of the problem as they may not have any warning signs or symptoms. 
 For this reason, it is important to have your blood pressure measured regularly.
 
-==> The only way to detect blood pressure is to have blood pressure measured in any specialized place. It is a quick and painless process. 
+The only way to detect blood pressure is to have blood pressure measured in any specialized place. It is a quick and painless process. 
 People can do this procedure themselves using electronic devices, but it is important that they undergo an evaluation by a specialist doctor for possible risks and associated ailments
 
 # What are the risks that blood pressure can cause ?
@@ -62,7 +62,7 @@ we used this dataset to build model
 
 # third model is Brain Tumor Classfication
 
-Dataset contain 4 classes :
+# Dataset contain 4 classes :
 
 1-Glioma tumor
 
