@@ -52,15 +52,7 @@ Make the companion of the patient abler to follow the patient's condition by sch
 ![Screenshot (744)](https://github.com/Norhanzeid/Graduation-Project/assets/88601623/93800758-f96a-49a7-a320-f0cabde225ba)
 
 
-# Second Model is ECG Classfication 
-
-![12911_2021_1736_Fig3_HTML](https://github.com/Norhanzeid/Graduation-Project/assets/88601623/4140884a-75a6-4195-a785-9dfee6b48559)
-
-# we used this dataset to build model
-![Screenshot (751)](https://github.com/Norhanzeid/Graduation-Project/assets/88601623/31cf3e21-03c0-4f1c-a666-1e50694aef88)
-![Screenshot (745)](https://github.com/Norhanzeid/Graduation-Project/assets/88601623/5ee11c3f-7fcb-462d-940c-a3d91788ab27)
-
-# Third model is Brain Tumor Classfication
+# second model is Brain Tumor Classfication
 
 Dataset contain 4 classes :
 
